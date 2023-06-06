@@ -1,0 +1,1 @@
+rootProject.name = "com.limitzero.limit-zero-chat"
